@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ThingSpeak
+ESPAsyncWebServer
+Keypad
+LiquidCrystal I2C
+WiFi
+ESP32Servo
+DHT sensor library
